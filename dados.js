@@ -1,6 +1,6 @@
 let dados = [
     {
-        'titulo': 'yasuo',
+        'titulo': 'Yasuo',
         'descricao': 'Yasuo, um espadachim ioniano orgulhoso e habilidoso, carrega o peso de uma acusação injusta. Na juventude, ele foi acusado de assassinar seu mestre e, incapaz de provar sua inocência, viu-se forçado a fugir, tornando-se um exilado em sua própria terra. Determinado a limpar seu nome e encontrar o verdadeiro assassino, Yasuo vaga por Ionia, sua espada e sua maestria sobre o vento suas únicas companhias. Ele busca redenção, mas também luta contra seus próprios demônios internos, como a impaciência e a arrogância que o levaram a tomar decisões impulsivas no passado.',
         'link': 'https://universe.leagueoflegends.com/pt_BR/story/champion/yasuo'
     },
